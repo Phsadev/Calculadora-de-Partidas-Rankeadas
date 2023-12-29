@@ -1,4 +1,3 @@
-index.js
 function calcularNivel(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
     let nivel;
